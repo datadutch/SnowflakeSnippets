@@ -13,7 +13,4 @@ This system-defined table function enables synthetic row generation.
 Note that it is possible to generate virtual tables with 0 columns but possibly many rows. 
 Such virtual tables are useful for queries whose SELECT clause consists entirely of data-generating functions.
 
-[sequences](https://docs.snowflake.net/manuals/sql-reference/functions/seq1.html#seq1-seq2-seq4-seq8)
- generates increasing integers
-
-[My Markdown Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[sequences](https://docs.snowflake.net/manuals/sql-reference/functions/seq1.html#seq1-seq2-seq4-seq8) Generates increasing integers
