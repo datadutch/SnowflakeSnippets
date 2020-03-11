@@ -14,4 +14,4 @@ There are also some features that are specific to the cloud platform of choice:
 
 [Limitations on Azure] (https://docs.snowflake.net/manuals/user-guide/intro-cloud-platforms.html#current-limitations-for-accounts-on-azure)
 
-![Plaatje](https://www.dropbox.com/s/f8nf5ul1iwexzxi/Screenshot%202020-03-11%20at%2013.26.03.png?dl=0)
+![Plaatje](https://www.dropbox.com/s/f8nf5ul1iwexzxi/Screenshot%202020-03-11%20at%2013.26.03.png)
