@@ -14,3 +14,6 @@ Note that it is possible to generate virtual tables with 0 columns but possibly 
 Such virtual tables are useful for queries whose SELECT clause consists entirely of data-generating functions.
 
 [sequences](https://docs.snowflake.net/manuals/sql-reference/functions/seq1.html#seq1-seq2-seq4-seq8) Generates increasing integers
+
+Snowflake documentation [reference](https://docs.snowflake.com/en/sql-reference/functions-date-time.html)
+
