@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 engine = create_engine(
     'snowflake://{user}:{password}@{account}/'.format(
         user='jkooij',
-        password='Nd3mMz6ydFp6',
+        password=os.environ['XU_PWD'],
         account='xu81264.eu-west-1',
     )
 )
