@@ -29,6 +29,8 @@
 
 (https://about.gitlab.com/handbook/business-ops/data-team/platform/permifrost/) [Permifrost is a python tool for managing permissions on a Snowflake data warehouse]
 
+(https://www.mssqltips.com/sqlservertip/6508/copy-data-from-and-to-snowflake-with-azure-data-factory/) [Copy Data from and to Snowflake with Azure Data Factory]
+
 ##Architecture
 
 (https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) [Emerging Architectures for Modern Data Infrastructure]
@@ -46,3 +48,11 @@
 (https://blog.crossjoin.co.uk/2020/10/25/why-im-excited-about-dynamic-m-parameters-in-power-bi/) [Why I’m Excited About Dynamic M Parameters In Power BI]
 
 (https://www.metabase.com/) [Have questions about your data? Metabase has answers]
+
+
+
+
+
+#Site
+
+(http://www.mashup-template.com/templates.html) [Template resources]
