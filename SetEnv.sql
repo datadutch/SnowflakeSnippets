@@ -1,0 +1,1 @@
+ALTER ACCOUNT SET TIMEZONE = 'Europe/Amsterdam';

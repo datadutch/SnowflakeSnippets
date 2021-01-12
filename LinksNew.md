@@ -44,7 +44,7 @@
 
 (https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) [Emerging Architectures for Modern Data Infrastructure]
 
-
+(https://dbmstools.com/databases/snowflake) [DBMS Tools]
 
 #Cycling
 
@@ -59,10 +59,10 @@
 (https://www.metabase.com/) [Have questions about your data? Metabase has answers]
 
 
+#Python
+(https://docs.python.org/3/tutorial/venv.html) [Virtual Environments]
 
-
-
-#Site
+#This Page
 
 (http://www.mashup-template.com/templates.html) [Template resources]
 >>>>>>> e24d8aeed9e0b69f8d9a3cc83427fb4dcc8d24c8
